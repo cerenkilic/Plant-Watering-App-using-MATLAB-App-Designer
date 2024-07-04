@@ -1,5 +1,5 @@
 # Plant-Watering-App-using-MATLAB-App-Designer
-The aim of this project was to develop an application to check the soil moisture status and water the plants based on the data received. This application helps to monitor soil moisture and makes plant care easier. All of the GUI design and coding process is done through MATLAB. 
+The aim of this project was to develop an application to check the soil humidity status and water the plants based on the data received. This application helps to monitor soil moisture and makes plant care easier. All of the GUI design and coding process is done through MATLAB. 
 ## GUI Design
 
 ![image](https://github.com/cerenkilic/Plant-Watering-App-using-MATLAB-App-Designer/assets/74498810/e062da64-9fc1-4d22-bc8d-2bdf73e292f1)
